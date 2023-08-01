@@ -2,6 +2,9 @@
 
 This repo include papers about the watermarking for LLM.
 
+* Towards Codable Text Watermarking for Large Language Models. Lean Wang, Wenkai Yang, Deli Chen, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun. Arxiv
+  * https://arxiv.org/abs/2307.15992
+
 * A Private Watermark for Large Language Models. Aiwei Liu, Leyi Pan, Xuming Hu, Shu'ang Li, Lijie Wen, Irwin King, Philip S. Yu. Arxiv
   * https://arxiv.org/abs/2307.16230
 * Robust Distortion-free Watermarks for Language Models. Rohith Kuditipudi John Thickstun Tatsunori Hashimoto Percy Liang. Arxiv
