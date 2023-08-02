@@ -2,6 +2,11 @@
 
 This repo include papers about the watermarking for LLM.
 
+* Advancing Beyond Identification: Multi-bit Watermark for Language Models. KiYoon Yoo, Wonhyuk Ahn, Nojun Kwak. Arxiv
+  * https://arxiv.org/abs/2308.00221
+* Three Bricks to Consolidate Watermarks for Large Language Models. Pierre Fernandez, Antoine Chaffin, Karim Tit, Vivien Chappelier, Teddy Furon. Arxiv.
+  * https://arxiv.org/abs/2308.00113
+
 * Towards Codable Text Watermarking for Large Language Models. Lean Wang, Wenkai Yang, Deli Chen, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun. Arxiv
   * https://arxiv.org/abs/2307.15992
 
