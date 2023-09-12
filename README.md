@@ -1,50 +1,83 @@
-# Watermarking LLM papers 
+# Watermark papers 
 
-This repo include papers about the watermarking for LLM.
+This repo includes papers about the watermarking for text and images.
 
-* Advancing Beyond Identification: Multi-bit Watermark for Language Models. KiYoon Yoo, Wonhyuk Ahn, Nojun Kwak. Arxiv
+## Text watermark
+
+* **Advancing Beyond Identification: Multi-bit Watermark for Language Models.** Preprint.
+  * KiYoon Yoo, Wonhyuk Ahn, Nojun Kwak.
   * https://arxiv.org/abs/2308.00221
-* Three Bricks to Consolidate Watermarks for Large Language Models. Pierre Fernandez, Antoine Chaffin, Karim Tit, Vivien Chappelier, Teddy Furon. Arxiv.
+* **Three Bricks to Consolidate Watermarks for Large Language Models.** Preprint.
+  * Pierre Fernandez, Antoine Chaffin, Karim Tit, Vivien Chappelier, Teddy Furon.
   * https://arxiv.org/abs/2308.00113
-
-* Towards Codable Text Watermarking for Large Language Models. Lean Wang, Wenkai Yang, Deli Chen, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun. Arxiv
+* **Towards Codable Text Watermarking for Large Language Models.** Preprint.
+  * Lean Wang, Wenkai Yang, Deli Chen, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun.
   * https://arxiv.org/abs/2307.15992
-
-* A Private Watermark for Large Language Models. Aiwei Liu, Leyi Pan, Xuming Hu, Shu'ang Li, Lijie Wen, Irwin King, Philip S. Yu. Arxiv
+* **A Private Watermark for Large Language Models.** Preprint.
+  * Aiwei Liu, Leyi Pan, Xuming Hu, Shu'ang Li, Lijie Wen, Irwin King, Philip S. Yu. 
   * https://arxiv.org/abs/2307.16230
-* Robust Distortion-free Watermarks for Language Models. Rohith Kuditipudi John Thickstun Tatsunori Hashimoto Percy Liang. Arxiv
+* **Robust Distortion-free Watermarks for Language Models.** Preprint.
+  * Rohith Kuditipudi John Thickstun Tatsunori Hashimoto Percy Liang.
   * https://arxiv.org/abs/2307.15593
-* Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy. Yu Fu, Deyi Xiong, Yue Dong. Arxiv
+* **Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy.** Preprint.
+  * Yu Fu, Deyi Xiong, Yue Dong.
   * https://arxiv.org/abs/2307.13808
-* Provable Robust Watermarking for AI-Generated Text. Xuandong Zhao, Prabhanjan Ananth, Lei Li, Yu-Xiang Wang. Arxiv
+* **Provable Robust Watermarking for AI-Generated Text.** Preprint.
+  * Xuandong Zhao, Prabhanjan Ananth, Lei Li, Yu-Xiang Wang.
   * https://arxiv.org/abs/2306.17439
-* On the Reliability of Watermarks for Large Language Models. John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein. Arxiv
+* **On the Reliability of Watermarks for Large Language Models.** Preprint.
+  * John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein.
   * https://arxiv.org/abs/2306.04634
-* Undetectable Watermarks for Language Models. Miranda Christ, Sam Gunn, Or Zamir.  Arxiv
+* **Undetectable Watermarks for Language Models.** Preprint.
+  * Miranda Christ, Sam Gunn, Or Zamir.
   * https://arxiv.org/abs/2306.09194
-* GPTs Don’t Keep Secrets: Searching for Backdoor Watermark Triggers in Autoregressive Language Models. Evan Lucas, Timothy Havens. ACL2023 workshop
-  * https://aclanthology.org/2023.trustnlp-1.21/
-* Watermarking Text Data on Large Language Models for Dataset Copyright Protection. Yixin Liu, Hongsheng Hu, Xuyun Zhang, Lichao Sun. Arxiv
+* **Watermarking Text Data on Large Language Models for Dataset Copyright Protection.** Preprint.
+  * Yixin Liu, Hongsheng Hu, Xuyun Zhang, Lichao Sun.
   * https://arxiv.org/abs/2305.13257
-* Baselines for Identifying Watermarked Large Language Models. Leonard Tang, Gavin Uberti, Tom Shlomi. Arxiv
+* **Baselines for Identifying Watermarked Large Language Models.** Preprint.
+  * Leonard Tang, Gavin Uberti, Tom Shlomi.
   * https://arxiv.org/abs/2305.18456
-* Who Wrote this Code? Watermarking for Code Generation. Taehyun Lee, Seokhee Hong, Jaewoo Ahn, Ilgee Hong, Hwaran Lee, Sangdoo Yun, Jamin Shin, Gunhee Kim. Arxiv
+* **Who Wrote this Code? Watermarking for Code Generation.** Preprint.
+  * Taehyun Lee, Seokhee Hong, Jaewoo Ahn, Ilgee Hong, Hwaran Lee, Sangdoo Yun, Jamin Shin, Gunhee Kim.
   * https://arxiv.org/abs/2305.15060
-
-* Evading Watermark based Detection of AI-Generated Content. Zhengyuan Jiang, Jinghuai Zhang, Neil Zhenqiang Gong. Arxiv
-  * https://arxiv.org/abs/2305.03807
-* Robust Multi-bit Natural Language Watermarking through Invariant Features. KiYoon Yoo, Wonhyuk Ahn, Jiho Jang, Nojun Kwak. ACL2023
+* **Robust Multi-bit Natural Language Watermarking through Invariant Features.** ACL 2023.
+* KiYoon Yoo, Wonhyuk Ahn, Jiho Jang, Nojun Kwak.
   * https://arxiv.org/abs/2305.01904
-* Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark. Wenjun Peng, Jingwei Yi, Fangzhao Wu, Shangxi Wu, Bin Zhu, Lingjuan Lyu, Binxing Jiao, Tong Xu, Guangzhong Sun, Xing Xie. ACL2023
+* **Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark.** ACL 2023.
+  * Wenjun Peng, Jingwei Yi, Fangzhao Wu, Shangxi Wu, Bin Zhu, Lingjuan Lyu, Binxing Jiao, Tong Xu, Guangzhong Sun, Xing Xie.
   * https://arxiv.org/abs/2305.10036
-
-* Watermarking Text Generated by Black-Box Language Models. Xi Yang, Kejiang Chen, Weiming Zhang, Chang Liu, Yuang Qi, Jie Zhang, Han Fang, Nenghai Yu. Arxiv
+* **Watermarking Text Generated by Black-Box Language Models.** Preprint.
+  * Xi Yang, Kejiang Chen, Weiming Zhang, Chang Liu, Yuang Qi, Jie Zhang, Han Fang, Nenghai Yu.
   * https://arxiv.org/abs/2305.08883
-
-* Protecting Language Generation Models via Invisible Watermarking. Xuandong Zhao, Yu-Xiang Wang, Lei Li. Arxiv 
+* **Protecting Language Generation Models via Invisible Watermarking.** ICML 2023.
+  * Xuandong Zhao, Yu-Xiang Wang, Lei Li.
   * https://arxiv.org/abs/2302.03162
-* A Watermark for Large Language Models. John Kirchenbauer, Jonas Geiping, Yuxin Wen, Jonathan Katz, Ian Miers, Tom Goldstein. ICML2023 outstanding paper
+* **A Watermark for Large Language Models.** ICML 2023. Outstanding Paper Award
+  * John Kirchenbauer, Jonas Geiping, Yuxin Wen, Jonathan Katz, Ian Miers, Tom Goldstein.
   * https://arxiv.org/abs/2301.10226
-
-* Distillation-Resistant Watermarking for Model Protection in NLP. Xuandong Zhao, Lei Li, Yu-Xiang Wang. EMNLP2022
+* **Distillation-Resistant Watermarking for Model Protection in NLP.** EMNLP 2022
+  * Xuandong Zhao, Lei Li, Yu-Xiang Wang.
   * https://arxiv.org/abs/2210.03312
+    
+## Image watermark
+* **Invisible Image Watermarks Are Provably Removable Using Generative AI.** Preprint.
+  * Xuandong Zhao, Kexun Zhang, Zihao Su, Saastha Vasan, Ilya Grishchenko, Christopher Kruegel, Giovanni Vigna, Yu-Xiang Wang, Lei Li.
+  * https://arxiv.org/abs/2306.01953
+* **Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust.** Preprint.
+  * Yuxin Wen, John Kirchenbauer, Jonas Geiping, Tom Goldstein.
+  * https://arxiv.org/abs/2305.20030
+* **Evading Watermark based Detection of AI-Generated Content.** CCS 2023.
+  * Zhengyuan Jiang, Jinghuai Zhang, Neil Zhenqiang Gong.
+  * https://arxiv.org/abs/2305.03807
+* **The Stable Signature: Rooting Watermarks in Latent Diffusion Models.** ICCV 2023.
+  * Pierre Fernandez, Guillaume Couairon, Hervé Jégou, Matthijs Douze, Teddy Furon.
+  * https://arxiv.org/abs/2303.15435
+* **Watermarking Images in Self-Supervised Latent Spaces.** ICASSP 2022.
+  * Pierre Fernandez, Alexandre Sablayrolles, Teddy Furon, Hervé Jégou, Matthijs Douze.
+  * https://arxiv.org/abs/2112.09581
+    
+# Contributing to this paper list
+
+First, think about which category the work should belong to.
+
+Second, use the same format as the others to describe the work.
