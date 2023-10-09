@@ -4,6 +4,10 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
+* **SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation.** Preprint.
+  * Abe Bohan Hou, Jingyu Zhang, Tianxing He, Yichen Wang, Yung-Sung Chuang, Hongwei Wang, Lingfeng Shen, Benjamin Van Durme, Daniel Khashabi, Yulia Tsvetkov
+  * https://arxiv.org/abs/2310.03991
+
 * **Advancing Beyond Identification: Multi-bit Watermark for Language Models.** Preprint.
   * KiYoon Yoo, Wonhyuk Ahn, Nojun Kwak.
   * https://arxiv.org/abs/2308.00221
