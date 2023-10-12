@@ -4,6 +4,10 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
+* **DiPmark: A Stealthy, Efficient and Resilient Watermark for Large Language Models.** Preprint.
+  * Yihan Wu, Zhengmian Hu, Hongyang Zhang, Heng Huang
+  * https://arxiv.org/abs/2310.07710
+
 * **A Semantic Invariant Robust Watermark for Large Language Models.** Preprint.
   * Aiwei Liu, Leyi Pan, Xuming Hu, Shiao Meng, Lijie Wen
   
