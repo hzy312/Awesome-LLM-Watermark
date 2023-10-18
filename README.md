@@ -4,6 +4,10 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
+* **Functional Invariants to Watermark Large Transformers.** Preprint.
+  * Fernandez Pierre, Couairon Guillaume, Furon Teddy, Douze Matthijs
+  * https://arxiv.org/abs/2310.11446
+
 * **Watermarking LLMs with Weight Quantization.** EMNLP2023 findings.
   * Linyang Li, Botian Jiang, Pengyu Wang, Ke Ren, Hang Yan, Xipeng Qiu
   * https://arxiv.org/abs/2310.11237
