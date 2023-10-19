@@ -4,6 +4,14 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
+* **Embarrassingly Simple Text Watermarks.** Preprint.
+  * Ryoma Sato, Yuki Takezawa, Han Bao, Kenta Niwa, Makoto Yamada
+  * https://arxiv.org/abs/2310.08920
+
+* **Necessary and Sufficient Watermark for Large Language Models.** Preprint.
+  * Yuki Takezawa, Ryoma Sato, Han Bao, Kenta Niwa, Makoto Yamada
+  * https://arxiv.org/abs/2310.00833
+
 * **Functional Invariants to Watermark Large Transformers.** Preprint.
   * Fernandez Pierre, Couairon Guillaume, Furon Teddy, Douze Matthijs
   * https://arxiv.org/abs/2310.11446
@@ -18,7 +26,6 @@ This repo includes papers about the watermarking for text and images.
 
 * **A Semantic Invariant Robust Watermark for Large Language Models.** Preprint.
   * Aiwei Liu, Leyi Pan, Xuming Hu, Shiao Meng, Lijie Wen
-  
   * https://arxiv.org/abs/2310.06356
   
 * **SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation.** Preprint.
@@ -62,7 +69,7 @@ This repo includes papers about the watermarking for text and images.
   * Taehyun Lee, Seokhee Hong, Jaewoo Ahn, Ilgee Hong, Hwaran Lee, Sangdoo Yun, Jamin Shin, Gunhee Kim.
   * https://arxiv.org/abs/2305.15060
 * **Robust Multi-bit Natural Language Watermarking through Invariant Features.** ACL 2023.
-* KiYoon Yoo, Wonhyuk Ahn, Jiho Jang, Nojun Kwak.
+  * KiYoon Yoo, Wonhyuk Ahn, Jiho Jang, Nojun Kwak.
   * https://arxiv.org/abs/2305.01904
 * **Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark.** ACL 2023.
   * Wenjun Peng, Jingwei Yi, Fangzhao Wu, Shangxi Wu, Bin Zhu, Lingjuan Lyu, Binxing Jiao, Tong Xu, Guangzhong Sun, Xing Xie.
@@ -79,6 +86,13 @@ This repo includes papers about the watermarking for text and images.
 * **Distillation-Resistant Watermarking for Model Protection in NLP.** EMNLP 2022
   * Xuandong Zhao, Lei Li, Yu-Xiang Wang.
   * https://arxiv.org/abs/2210.03312
+* **CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks.** NeurIPS 2022
+  * Xuanli He, Qiongkai Xu, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia.
+  * https://arxiv.org/abs/2209.08773
+* **Watermarking the Outputs of Structured Prediction with an application in Statistical Machine Translation.** EMNLP 2011
+  * Ashish Venugopal, Jakob Uszkoreit, David Talbot, Franz Och, Juri Ganitkevitch.
+  * https://aclanthology.org/D11-1126/
+
     
 ## Image watermark
 * **Invisible Image Watermarks Are Provably Removable Using Generative AI.** Preprint.
