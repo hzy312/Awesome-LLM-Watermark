@@ -4,6 +4,10 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
+* **REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models.** Preprint
+  * Ruisi Zhang, Shehzeen Samarah Hussain, Paarth Neekhara, Farinaz Koushanfar
+  * https://arxiv.org/abs/2310.12362
+
 * **Embarrassingly Simple Text Watermarks.** Preprint.
   * Ryoma Sato, Yuki Takezawa, Han Bao, Kenta Niwa, Makoto Yamada
   * https://arxiv.org/abs/2310.08920
