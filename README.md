@@ -4,7 +4,14 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
-* **REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models.** Preprint
+* **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models.** Preprint.
+  
+  * Hanlin Zhang, Benjamin L. Edelman, Danilo Francati, Daniele Venturi, Giuseppe Ateniese, Boaz Barak
+
+  * https://arxiv.org/abs/2311.04378
+  
+* **REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models.** Preprint.
+
   * Ruisi Zhang, Shehzeen Samarah Hussain, Paarth Neekhara, Farinaz Koushanfar
   * https://arxiv.org/abs/2310.12362
 
@@ -31,7 +38,7 @@ This repo includes papers about the watermarking for text and images.
 * **A Semantic Invariant Robust Watermark for Large Language Models.** Preprint.
   * Aiwei Liu, Leyi Pan, Xuming Hu, Shiao Meng, Lijie Wen
   * https://arxiv.org/abs/2310.06356
-  
+
 * **SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation.** Preprint.
   * Abe Bohan Hou, Jingyu Zhang, Tianxing He, Yichen Wang, Yung-Sung Chuang, Hongwei Wang, Lingfeng Shen, Benjamin Van Durme, Daniel Khashabi, Yulia Tsvetkov
   * https://arxiv.org/abs/2310.03991
