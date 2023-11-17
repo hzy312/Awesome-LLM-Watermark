@@ -4,6 +4,10 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
+* **Performance Trade-offs of Watermarking Large Language Models.** Preprint.
+  * Anirudh Ajith, Sameer Singh, Danish Pruthi
+  * https://arxiv.org/abs/2311.09816
+
 * **X-Mark: Towards Lossless Watermarking Through Lexical Redundancy.** Preprint.
   * Liang Chen, Yatao Bian, Yang Deng, Shuaiyi Li, Bingzhe Wu, Peilin Zhao, Kam-fai Wong
   * https://arxiv.org/abs/2311.09832
