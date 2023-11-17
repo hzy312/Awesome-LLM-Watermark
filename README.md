@@ -4,11 +4,16 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
-* **WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models.** Prepring.
+* **X-Mark: Towards Lossless Watermarking Through Lexical Redundancy.** Preprint.
+  * Liang Chen, Yatao Bian, Yang Deng, Shuaiyi Li, Bingzhe Wu, Peilin Zhao, Kam-fai Wong
+  * https://arxiv.org/abs/2311.09832
+
+* **WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models.** Preprint.
+  
   * Shangqing Tu, Yuliang Sun, Yushi Bai, Jifan Yu, Lei Hou, Juanzi Li
   * https://arxiv.org/abs/2311.07138
   * Benchmark dataset
-
+  
 * **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models.** Preprint.
   
   * Hanlin Zhang, Benjamin L. Edelman, Danilo Francati, Daniele Venturi, Giuseppe Ateniese, Boaz Barak
