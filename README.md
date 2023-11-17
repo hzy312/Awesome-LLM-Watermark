@@ -4,6 +4,10 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
+* **Improving the Generation Quality of Watermarked Large Language Models via Word Importance Scoring.** Preprint
+  * Yuhang Li, Yihan Wang, Zhouxing Shi, Cho-Jui Hsieh
+  * https://arxiv.org/abs/2311.09668
+
 * **Performance Trade-offs of Watermarking Large Language Models.** Preprint.
   * Anirudh Ajith, Sameer Singh, Danish Pruthi
   * https://arxiv.org/abs/2311.09816
