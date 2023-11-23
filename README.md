@@ -118,7 +118,10 @@ This repo includes papers about the watermarking for text and images.
 * **CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks.** NeurIPS 2022
   * Xuanli He, Qiongkai Xu, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia.
   * https://arxiv.org/abs/2209.08773
-* **Watermarking the Outputs of Structured Prediction with an application in Statistical Machine Translation.** EMNLP 2011
+* **Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding.** IEEE S&P 2021.
+  * Sahar Abdelnabi, Mario Fritz. 
+  * https://arxiv.org/abs/2009.03015
+* **Watermarking the Outputs of Structured Prediction with an Application in Statistical Machine Translation.** EMNLP 2011
   * Ashish Venugopal, Jakob Uszkoreit, David Talbot, Franz Och, Juri Ganitkevitch.
   * https://aclanthology.org/D11-1126/
 
