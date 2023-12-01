@@ -4,7 +4,14 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
+* **I Know You Did Not Write That! A Sampling Based Watermarking Method for Identifying Machine Generated Text.** Preprint.
+  
+  * Kaan Efe Keleş, Ömer Kaan Gürbüz, Mucahid Kutlu
+
+  * https://arxiv.org/abs/2311.18054
+  
 * **Improving the Generation Quality of Watermarked Large Language Models via Word Importance Scoring.** Preprint
+
   * Yuhang Li, Yihan Wang, Zhouxing Shi, Cho-Jui Hsieh
   * https://arxiv.org/abs/2311.09668
 
@@ -17,17 +24,17 @@ This repo includes papers about the watermarking for text and images.
   * https://arxiv.org/abs/2311.09832
 
 * **WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models.** Preprint.
-  
+
   * Shangqing Tu, Yuliang Sun, Yushi Bai, Jifan Yu, Lei Hou, Juanzi Li
   * https://arxiv.org/abs/2311.07138
   * Benchmark dataset
-  
+
 * **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models.** Preprint.
-  
+
   * Hanlin Zhang, Benjamin L. Edelman, Danilo Francati, Daniele Venturi, Giuseppe Ateniese, Boaz Barak
 
   * https://arxiv.org/abs/2311.04378
-  
+
 * **REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models.** Preprint.
 
   * Ruisi Zhang, Shehzeen Samarah Hussain, Paarth Neekhara, Farinaz Koushanfar
