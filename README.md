@@ -4,12 +4,18 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
-* **I Know You Did Not Write That! A Sampling Based Watermarking Method for Identifying Machine Generated Text.** Preprint.
+* **Mark My Words: Analyzing and Evaluating Language Model Watermarks.** Preprint.
   
+  * Julien Piet, Chawin Sitawarin, Vivian Fang, Norman Mu, David Wagner
+
+  * https://arxiv.org/abs/2312.00273
+  
+* **I Know You Did Not Write That! A Sampling Based Watermarking Method for Identifying Machine Generated Text.** Preprint.
+
   * Kaan Efe Keleş, Ömer Kaan Gürbüz, Mucahid Kutlu
 
   * https://arxiv.org/abs/2311.18054
-  
+
 * **Improving the Generation Quality of Watermarked Large Language Models via Word Importance Scoring.** Preprint
 
   * Yuhang Li, Yihan Wang, Zhouxing Shi, Cho-Jui Hsieh
