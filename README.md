@@ -4,12 +4,18 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
-* **Mark My Words: Analyzing and Evaluating Language Model Watermarks.** Preprint.
+* **New Evaluation Metrics Capture Quality Degradation due to LLM Watermarking.** Preprint.
   
+  * Karanpartap Singh, James Zou
+
+  * https://arxiv.org/abs/2312.02382
+  
+* **Mark My Words: Analyzing and Evaluating Language Model Watermarks.** Preprint.
+
   * Julien Piet, Chawin Sitawarin, Vivian Fang, Norman Mu, David Wagner
 
   * https://arxiv.org/abs/2312.00273
-  
+
 * **I Know You Did Not Write That! A Sampling Based Watermarking Method for Identifying Machine Generated Text.** Preprint.
 
   * Kaan Efe Keleş, Ömer Kaan Gürbüz, Mucahid Kutlu
