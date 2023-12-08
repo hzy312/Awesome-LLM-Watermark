@@ -4,12 +4,18 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
-* **New Evaluation Metrics Capture Quality Degradation due to LLM Watermarking.** Preprint.
+* **On the Learnability of Watermarks for Language Models.** Preprint.
   
+  * Chenchen Gu, Xiang Lisa Li, Percy Liang, Tatsunori Hashimoto
+
+  * https://arxiv.org/abs/2312.04469
+  
+* **New Evaluation Metrics Capture Quality Degradation due to LLM Watermarking.** Preprint.
+
   * Karanpartap Singh, James Zou
 
   * https://arxiv.org/abs/2312.02382
-  
+
 * **Mark My Words: Analyzing and Evaluating Language Model Watermarks.** Preprint.
 
   * Julien Piet, Chawin Sitawarin, Vivian Fang, Norman Mu, David Wagner
