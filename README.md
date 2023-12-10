@@ -146,6 +146,9 @@ This repo includes papers about the watermarking for text and images.
 * **Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding.** IEEE S&P 2021
   * Sahar Abdelnabi, Mario Fritz. 
   * https://arxiv.org/abs/2009.03015
+* **Watermarking GPT Outputs.** slides 2023
+  * Scott Aaronson, Hendrik Kirchner
+  * https://www.scottaaronson.com/talks/watermark.ppt
 * **Watermarking the Outputs of Structured Prediction with an Application in Statistical Machine Translation.** EMNLP 2011
   * Ashish Venugopal, Jakob Uszkoreit, David Talbot, Franz Och, Juri Ganitkevitch.
   * https://aclanthology.org/D11-1126/
