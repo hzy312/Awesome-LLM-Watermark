@@ -155,6 +155,21 @@ This repo includes papers about the watermarking for text and images.
 
     
 ## Image watermark
+* **Flexible and Secure Watermarking for Latent Diffusion Model.** MM23.
+  * Cheng Xiong, Chuan Qin, Guorui Feng, Xinpeng Zhang
+  * https://dl.acm.org/doi/abs/10.1145/3581783.3612448
+* **Leveraging Optimization for Adaptive Attacks on Image Watermarks.** Preprint.
+  * Nils Lukas, Abdulrahman Diaa, Lucas Fenaux, Florian Kerschbaum
+  * https://arxiv.org/abs/2309.16952
+* **Catch You Everything Everywhere: Guarding Textual Inversion via Concept Watermarking.** Preprint.
+  * Weitao Feng, Jiyan He, Jie Zhang, Tianwei Zhang, Wenbo Zhou, Weiming Zhang, Nenghai Yu
+  * https://arxiv.org/abs/2309.05940
+* **Hey That's Mine Imperceptible Watermarks are Preserved in Diffusion Generated Outputs.** Preprint.
+  * Luke Ditria, Tom Drummond
+  * https://arxiv.org/abs/2308.11123
+* **Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis.** Preprint.
+  * Yihan Ma, Zhengyu Zhao, Xinlei He, Zheng Li, Michael Backes, Yang Zhang
+  * https://arxiv.org/abs/2306.07754
 * **Invisible Image Watermarks Are Provably Removable Using Generative AI.** Preprint.
   * Xuandong Zhao, Kexun Zhang, Zihao Su, Saastha Vasan, Ilya Grishchenko, Christopher Kruegel, Giovanni Vigna, Yu-Xiang Wang, Lei Li.
   * https://arxiv.org/abs/2306.01953
@@ -171,6 +186,7 @@ This repo includes papers about the watermarking for text and images.
   * Pierre Fernandez, Alexandre Sablayrolles, Teddy Furon, Hervé Jégou, Matthijs Douze.
   * https://arxiv.org/abs/2112.09581
     
+
 # Contributing to this paper list
 
 First, think about which category the work should belong to.
