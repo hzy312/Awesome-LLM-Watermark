@@ -4,12 +4,18 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
-* **On the Learnability of Watermarks for Language Models.** Preprint.
+* **A Survey of Text Watermarking in the Era of Large Language Models.** Preprint. Survey paper.
   
+  * Aiwei Liu, Leyi Pan, Yijian Lu, Jingjing Li, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu
+
+  * https://arxiv.org/abs/2312.07913
+  
+* **On the Learnability of Watermarks for Language Models.** Preprint.
+
   * Chenchen Gu, Xiang Lisa Li, Percy Liang, Tatsunori Hashimoto
 
   * https://arxiv.org/abs/2312.04469
-  
+
 * **New Evaluation Metrics Capture Quality Degradation due to LLM Watermarking.** Preprint.
 
   * Karanpartap Singh, James Zou
