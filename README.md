@@ -4,12 +4,18 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
-* **Towards Optimal Statistical Watermarking.** Preprint.
+* **Optimizing watermarks for large language models.** Preprint.
   
+  * Bram Wouters
+
+  * https://arxiv.org/abs/2312.17295
+  
+* **Towards Optimal Statistical Watermarking.** Preprint.
+
   * Baihe Huang, Banghua Zhu, Hanlin Zhu, Jason D. Lee, Jiantao Jiao, Michael I. Jordan
 
   * https://arxiv.org/abs/2312.07930
-  
+
 * **A Survey of Text Watermarking in the Era of Large Language Models.** Preprint. Survey paper.
 
   * Aiwei Liu, Leyi Pan, Yijian Lu, Jingjing Li, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu
