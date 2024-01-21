@@ -4,7 +4,7 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
-* **Cross-Attention Watermarking of Large Language Models.** Preprint.
+* **Cross-Attention Watermarking of Large Language Models.** ICASSP2024.
 
   * Folco Bertini Baldassini, Huy H. Nguyen, Ching-Chung Chang, Isao Echizen
     
