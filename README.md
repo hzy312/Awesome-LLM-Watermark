@@ -4,6 +4,12 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
+* **Excuse me, sir? Your language model is leaking (information)** Preprint.
+
+  * Or Zamir
+    
+  * https://arxiv.org/abs/2401.10360
+
 * **Cross-Attention Watermarking of Large Language Models.** ICASSP2024.
 
   * Folco Bertini Baldassini, Huy H. Nguyen, Ching-Chung Chang, Isao Echizen
