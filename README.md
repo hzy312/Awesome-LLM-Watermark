@@ -4,6 +4,13 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
+* **Instructional Fingerprinting of Large Language Models.** Preprint.
+  * Jiashu Xu, Fei Wang, Mingyu Derek Ma, Pang Wei Koh, Chaowei Xiao, Muhao Chen
+  * https://arxiv.org/abs/2401.12255
+* **Adaptive Text Watermark for Large Language Models.** Preprint.
+  * Yepeng Liu, Yuheng Bu
+  * https://arxiv.org/abs/2401.13927
+
 * **Excuse me, sir? Your language model is leaking (information)** Preprint.
 
   * Or Zamir
