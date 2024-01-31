@@ -3,6 +3,9 @@
 This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
+* **Provably Robust Multi-bit Watermarking for AI-generated Text via Error Correction Code.** Preprint.
+  * Wenjie Qu, Dong Yin, Zixin He, Wei Zou, Tianyang Tao, Jinyuan Jia, Jiaheng Zhang
+  * https://arxiv.org/abs/2401.16820
 
 * **Instructional Fingerprinting of Large Language Models.** Preprint.
   * Jiashu Xu, Fei Wang, Mingyu Derek Ma, Pang Wei Koh, Chaowei Xiao, Muhao Chen
