@@ -3,6 +3,11 @@
 This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
+
+* **Permute-and-Flip: An optimally robust and watermarkable decoder for LLMs.** Preprint.
+  * Xuandong Zhao, Lei Li, Yu-Xiang Wang
+  * https://arxiv.org/abs/2402.05864
+  
 * **Provably Robust Multi-bit Watermarking for AI-generated Text via Error Correction Code.** Preprint.
   * Wenjie Qu, Dong Yin, Zixin He, Wei Zou, Tianyang Tao, Jinyuan Jia, Jiaheng Zhang
   * https://arxiv.org/abs/2401.16820
