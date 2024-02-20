@@ -4,10 +4,17 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
+* **Proving membership in LLM pretraining data via data watermarks.** Preprint.
+  
+  * Johnny Tian-Zheng Wei, Ryan Yixiang Wang, Robin Jia
+  
+  * https://arxiv.org/abs/2402.10892
+  
 * **Permute-and-Flip: An optimally robust and watermarkable decoder for LLMs.** Preprint.
+
   * Xuandong Zhao, Lei Li, Yu-Xiang Wang
   * https://arxiv.org/abs/2402.05864
-  
+
 * **Provably Robust Multi-bit Watermarking for AI-generated Text via Error Correction Code.** Preprint.
   * Wenjie Qu, Dong Yin, Zixin He, Wei Zou, Tianyang Tao, Jinyuan Jia, Jiaheng Zhang
   * https://arxiv.org/abs/2401.16820
@@ -32,11 +39,11 @@ This repo includes papers about the watermarking for text and images.
   * https://arxiv.org/abs/2401.06829
 
 * **Optimizing watermarks for large language models.** Preprint.
-  
+
   * Bram Wouters
 
   * https://arxiv.org/abs/2312.17295
-  
+
 * **Towards Optimal Statistical Watermarking.** Preprint.
 
   * Baihe Huang, Banghua Zhu, Hanlin Zhu, Jason D. Lee, Jiantao Jiao, Michael I. Jordan
