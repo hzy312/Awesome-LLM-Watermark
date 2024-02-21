@@ -4,12 +4,24 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
+* **GumbelSoft: Diversified Language Model Watermarking via the GumbelMax-trick.** Preprint.
+  
+  * Jiayi Fu, Xuandong Zhao, Ruihan Yang, Yuansen Zhang, Jiangjie Chen, Yanghua Xiao
+  
+  * https://arxiv.org/abs/2402.12948
+  
+* **k-SemStamp: A Clustering-Based Semantic Watermark for Detection of Machine-Generated Text.** Preprint. 
+
+  * Abe Bohan Hou, Jingyu Zhang, Yichen Wang, Daniel Khashabi, Tianxing He
+
+  * https://arxiv.org/abs/2402.11399
+
 * **Proving membership in LLM pretraining data via data watermarks.** Preprint.
-  
+
   * Johnny Tian-Zheng Wei, Ryan Yixiang Wang, Robin Jia
-  
+
   * https://arxiv.org/abs/2402.10892
-  
+
 * **Permute-and-Flip: An optimally robust and watermarkable decoder for LLMs.** Preprint.
 
   * Xuandong Zhao, Lei Li, Yu-Xiang Wang
