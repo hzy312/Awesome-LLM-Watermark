@@ -4,12 +4,18 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
+* **Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models.** Preprint.
+  
+  * Zhiwei He, Binglin Zhou, Hongkun Hao, Aiwei Liu, Xing Wang, Zhaopeng Tu, Zhuosheng Zhang, Rui Wang
+  
+  * https://arxiv.org/abs/2402.14007
+  
 * **GumbelSoft: Diversified Language Model Watermarking via the GumbelMax-trick.** Preprint.
-  
+
   * Jiayi Fu, Xuandong Zhao, Ruihan Yang, Yuansen Zhang, Jiangjie Chen, Yanghua Xiao
-  
+
   * https://arxiv.org/abs/2402.12948
-  
+
 * **k-SemStamp: A Clustering-Based Semantic Watermark for Detection of Machine-Generated Text.** Preprint. 
 
   * Abe Bohan Hou, Jingyu Zhang, Yichen Wang, Daniel Khashabi, Tianxing He
