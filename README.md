@@ -4,16 +4,35 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
+* **EmMark: Robust Watermarks for IP Protection of Embedded Quantized Large Language Models.** Preprint.
+  
+  * Ruisi Zhang, Farinaz Koushanfar
+
+  * https://arxiv.org/abs/2402.17938
+  
+* **Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models.** Preprint.
+
+  * Mingjia Huo, Sai Ashish Somayajula, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, Pengtao Xie
+
+  * https://arxiv.org/abs/2402.18059
+
+* **Attacking LLM Watermarks by Exploiting Their Strengths.** Preprint.
+
+  * Qi Pang, Shengyuan Hu, Wenting Zheng, Virginia Smith
+
+  * https://arxiv.org/abs/2402.16187
+
 * **Multi-Bit Distortion-Free Watermarking for Large Language Models.** preprint.
+
   * Massieh Kordi Boroujeny, Ya Jiang, Kai Zeng, Brian Mark
   * https://arxiv.org/abs/2402.16578
 
 * **Watermarking Makes Language Models Radioactive.** Preprint.
-  
+
   * Tom Sander, Pierre Fernandez, Alain Durmus, Matthijs Douze, Teddy Furon
-  
+
   * https://arxiv.org/abs/2402.14904
-  
+
 * **Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models.** Preprint.
 
   * Zhiwei He, Binglin Zhou, Hongkun Hao, Aiwei Liu, Xing Wang, Zhaopeng Tu, Zhuosheng Zhang, Rui Wang
