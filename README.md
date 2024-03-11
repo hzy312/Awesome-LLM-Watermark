@@ -4,12 +4,24 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
-* **EmMark: Robust Watermarks for IP Protection of Embedded Quantized Large Language Models.** Preprint.
+* **WaterMax: breaking the LLM watermark detectability-robustness-quality trade-off.** Preprint.
   
+  * Eva Giboulot, Furon Teddy
+
+  * https://arxiv.org/abs/2403.04808
+  
+* **WARDEN: Multi-Directional Backdoor Watermarks for Embedding-as-a-Service Copyright Protection.** Preprint.
+
+  * Anudeex Shetty, Yue Teng, Ke He, Qiongkai Xu
+
+  * https://arxiv.org/abs/2403.01472
+
+* **EmMark: Robust Watermarks for IP Protection of Embedded Quantized Large Language Models.** Preprint.
+
   * Ruisi Zhang, Farinaz Koushanfar
 
   * https://arxiv.org/abs/2402.17938
-  
+
 * **Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models.** Preprint.
 
   * Mingjia Huo, Sai Ashish Somayajula, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, Pengtao Xie
