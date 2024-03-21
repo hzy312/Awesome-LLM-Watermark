@@ -4,12 +4,24 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
-* **WaterMax: breaking the LLM watermark detectability-robustness-quality trade-off.** Preprint.
+* **Duwak: Dual Watermarks in Large Language Models.** Preprint.
   
+  * Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
+
+  * https://arxiv.org/abs/2403.13000
+  
+* **Lost in Overlap: Exploring Watermark Collision in LLMs.** Preprint.
+
+  * Yiyang Luo, Ke Lin, Chao Gu
+
+  * https://arxiv.org/abs/2403.10020
+
+* **WaterMax: breaking the LLM watermark detectability-robustness-quality trade-off.** Preprint.
+
   * Eva Giboulot, Furon Teddy
 
   * https://arxiv.org/abs/2403.04808
-  
+
 * **WARDEN: Multi-Directional Backdoor Watermarks for Embedding-as-a-Service Copyright Protection.** Preprint.
 
   * Anudeex Shetty, Yue Teng, Ke He, Qiongkai Xu
