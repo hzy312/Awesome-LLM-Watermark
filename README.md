@@ -4,12 +4,18 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
-* **Duwak: Dual Watermarks in Large Language Models.** Preprint.
+* **WaterJudge: Quality-Detection Trade-off when Watermarking Large Language Models.** Preprint.
   
+  * Piotr Molenda, Adian Liusie, Mark J. F. Gales
+
+  * https://arxiv.org/abs/2403.19548
+  
+* **Duwak: Dual Watermarks in Large Language Models.** Preprint.
+
   * Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
 
   * https://arxiv.org/abs/2403.13000
-  
+
 * **Lost in Overlap: Exploring Watermark Collision in LLMs.** Preprint.
 
   * Yiyang Luo, Ke Lin, Chao Gu
