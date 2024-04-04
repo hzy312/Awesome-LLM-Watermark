@@ -4,6 +4,12 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
+* **Topic-based Watermarks for LLM-Generated Text.** Preprint.
+  
+  * Alexander Nemecek, Yuzhou Jiang, Erman Ayday
+
+  * https://arxiv.org/abs/2404.02138
+
 * **A Statistical Framework of Watermarks for Large Language Models: Pivot, Detection Efficiency and Optimal Rules.** Preprint.
   
   * Xiang Li, Feng Ruan, Huiyuan Wang, Qi Long, Weijie J. Su
