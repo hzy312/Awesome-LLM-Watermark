@@ -3,6 +3,12 @@
 This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
+* **Is Watermarking LLM-Generated Code Robust?** Tiny ICLR 2024
+
+  * Tarun Suresh, Shubham Ugare, Gagandeep Singh, Sasa Misailovic
+  
+  * https://arxiv.org/abs/2403.17983
+
 
 * **Topic-based Watermarks for LLM-Generated Text.** Preprint.
   
