@@ -10,6 +10,12 @@ This repo includes papers about the watermarking for text and images.
   * https://arxiv.org/abs/2403.17983
 
 
+* **Towards Better Statistical Understanding of Watermarking LLMs.** Preprint.
+  
+  * Zhongze Cai, Shang Liu, Hanzhao Wang, Huaiyang Zhong, Xiaocheng Li
+
+  * https://arxiv.org/abs/2403.13027
+
 * **Topic-based Watermarks for LLM-Generated Text.** Preprint.
   
   * Alexander Nemecek, Yuzhou Jiang, Erman Ayday
