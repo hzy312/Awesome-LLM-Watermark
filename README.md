@@ -194,7 +194,7 @@ This repo includes papers about the watermarking for text and images.
   * Liang Chen, Yatao Bian, Yang Deng, Shuaiyi Li, Bingzhe Wu, Peilin Zhao, Kam-fai Wong
   * https://arxiv.org/abs/2311.09832
 
-* **WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models.** Preprint.
+* **WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models.** ACL 2024.
 
   * Shangqing Tu, Yuliang Sun, Yushi Bai, Jifan Yu, Lei Hou, Juanzi Li
   * https://arxiv.org/abs/2311.07138
