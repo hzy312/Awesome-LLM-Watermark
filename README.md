@@ -15,6 +15,10 @@ This repo includes papers about the watermarking for text and images.
   * Zhongze Cai, Shang Liu, Hanzhao Wang, Huaiyang Zhong, Xiaocheng Li
 
   * https://arxiv.org/abs/2403.13027
+ 
+* **WatME: Towards Lossless Watermarking Through Lexical Redundancy.** ACL 2024.
+  * Liang Chen, Yatao Bian, Yang Deng, Deng Cai, Shuaiyi Li, Peilin Zhao, Kam-fai Wong
+  * https://arxiv.org/abs/2311.09832
 
 * **Topic-based Watermarks for LLM-Generated Text.** Preprint.
   
@@ -27,6 +31,7 @@ This repo includes papers about the watermarking for text and images.
   * Xiang Li, Feng Ruan, Huiyuan Wang, Qi Long, Weijie J. Su
 
   * https://arxiv.org/abs/2404.01245
+ 
   
 * **WaterJudge: Quality-Detection Trade-off when Watermarking Large Language Models.** Preprint.
 
@@ -189,10 +194,6 @@ This repo includes papers about the watermarking for text and images.
 * **Performance Trade-offs of Watermarking Large Language Models.** Preprint.
   * Anirudh Ajith, Sameer Singh, Danish Pruthi
   * https://arxiv.org/abs/2311.09816
-
-* **X-Mark: Towards Lossless Watermarking Through Lexical Redundancy.** Preprint.
-  * Liang Chen, Yatao Bian, Yang Deng, Shuaiyi Li, Bingzhe Wu, Peilin Zhao, Kam-fai Wong
-  * https://arxiv.org/abs/2311.09832
 
 * **WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models.** ACL 2024.
 
