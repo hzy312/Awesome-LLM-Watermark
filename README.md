@@ -20,6 +20,14 @@ This repo includes papers about the watermarking for text and images.
   * Liang Chen, Yatao Bian, Yang Deng, Deng Cai, Shuaiyi Li, Peilin Zhao, Kam-fai Wong
   * https://arxiv.org/abs/2311.09832
 
+
+* **TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification.** ACL 2024 (findings).
+  
+  *  Martin Gubri, Dennis Ulmer, Hwaran Lee, Sangdoo Yun, Seong Joon Oh
+
+  * https://arxiv.org/abs/2402.12991
+
+
 * **Topic-based Watermarks for LLM-Generated Text.** Preprint.
   
   * Alexander Nemecek, Yuzhou Jiang, Erman Ayday
