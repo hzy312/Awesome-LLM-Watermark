@@ -3,6 +3,12 @@
 This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
+
+* **WaterPark: A Robustness Assessment of Language Model Watermarking** Preprint.
+  * Jiacheng Liang, Zian Wang, Lauren Hong, Shouling Ji, Ting Wang
+  
+  * https://arxiv.org/abs/2411.13425
+
 * **Is Watermarking LLM-Generated Code Robust?** Tiny ICLR 2024
 
   * Tarun Suresh, Shubham Ugare, Gagandeep Singh, Sasa Misailovic
