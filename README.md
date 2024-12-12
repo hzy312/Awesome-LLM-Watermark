@@ -4,10 +4,30 @@ This repo includes papers about the watermarking for text and images.
 
 ## Text watermark
 
+* **Watermarking Training Data of Music Generation Models.** Preprint.
+  * Pascal Epple, Igor Shilov, Bozhidar Stevanovski, Yves-Alexandre de Montjoye
+  * https://arxiv.org/abs/2412.08549
+
 * **WaterPark: A Robustness Assessment of Language Model Watermarking** Preprint.
   * Jiacheng Liang, Zian Wang, Lauren Hong, Shouling Ji, Ting Wang
   
   * https://arxiv.org/abs/2411.13425
+
+* **A Novel Access Control and Privacy-Enhancing Approach for Models in Edge Computing.** Preprint.
+  * Peihao Li
+  * https://arxiv.org/abs/2411.03847
+
+* **Embedding Watermarks in Diffusion Process for Model Intellectual Property Protection.** Preprint.
+  * Jijia Yang, Sen Peng, Xiaohua Jia
+  * https://arxiv.org/abs/2410.22445
+
+* **Unharmful Backdoor-based Client-side Watermarking in Federated Learning.** Preprint.
+  * Kaijing Luo, Ka-Ho Chow
+  * https://arxiv.org/abs/2410.21179
+
+* **Segmenting Watermarked Texts From Language Models.** Preprint.
+  * Xingchi Li, Guanxun Li, Xianyang Zhang
+  * https://arxiv.org/abs/2410.20670
 
 * **Is Watermarking LLM-Generated Code Robust?** Tiny ICLR 2024
 
@@ -323,37 +343,62 @@ This repo includes papers about the watermarking for text and images.
 
     
 ## Image watermark
+
+* **Conceptwm: A Diffusion Model Watermark for Concept Protection.** Preprint.
+  * Liangqi Lei, Keke Gai, Jing Yu, Liehuang Zhu, Qi Wu
+  * https://arxiv.org/abs/2411.11688
+
+* **CLUE-MARK: Watermarking Diffusion Models using CLWE.** Preprint.
+  * Kareem Shehata, Aashish Kolluri, Prateek Saxena
+  * https://arxiv.org/abs/2411.11434
+
+* **GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting.** Preprint.
+  * Xiufeng Huang, Ruiqi Li, Yiu-ming Cheung, Ka Chun Cheung, Simon See, Renjie Wan
+  * https://arxiv.org/abs/2410.23718
+
+* **Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models.** Preprint.
+  * Wenda Li, Huijie Zhang, Qing Qu
+  * https://arxiv.org/abs/2410.21088
+
 * **Flexible and Secure Watermarking for Latent Diffusion Model.** MM23.
   * Cheng Xiong, Chuan Qin, Guorui Feng, Xinpeng Zhang
   * https://dl.acm.org/doi/abs/10.1145/3581783.3612448
+
 * **Leveraging Optimization for Adaptive Attacks on Image Watermarks.** Preprint.
   * Nils Lukas, Abdulrahman Diaa, Lucas Fenaux, Florian Kerschbaum
   * https://arxiv.org/abs/2309.16952
+
 * **Catch You Everything Everywhere: Guarding Textual Inversion via Concept Watermarking.** Preprint.
   * Weitao Feng, Jiyan He, Jie Zhang, Tianwei Zhang, Wenbo Zhou, Weiming Zhang, Nenghai Yu
   * https://arxiv.org/abs/2309.05940
+
 * **Hey That's Mine Imperceptible Watermarks are Preserved in Diffusion Generated Outputs.** Preprint.
   * Luke Ditria, Tom Drummond
   * https://arxiv.org/abs/2308.11123
+
 * **Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis.** Preprint.
   * Yihan Ma, Zhengyu Zhao, Xinlei He, Zheng Li, Michael Backes, Yang Zhang
   * https://arxiv.org/abs/2306.07754
+
 * **Invisible Image Watermarks Are Provably Removable Using Generative AI.** Preprint.
   * Xuandong Zhao, Kexun Zhang, Zihao Su, Saastha Vasan, Ilya Grishchenko, Christopher Kruegel, Giovanni Vigna, Yu-Xiang Wang, Lei Li.
   * https://arxiv.org/abs/2306.01953
+
 * **Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust.** Preprint.
   * Yuxin Wen, John Kirchenbauer, Jonas Geiping, Tom Goldstein.
   * https://arxiv.org/abs/2305.20030
+
 * **Evading Watermark based Detection of AI-Generated Content.** CCS 2023.
   * Zhengyuan Jiang, Jinghuai Zhang, Neil Zhenqiang Gong.
   * https://arxiv.org/abs/2305.03807
+
 * **The Stable Signature: Rooting Watermarks in Latent Diffusion Models.** ICCV 2023.
   * Pierre Fernandez, Guillaume Couairon, Hervé Jégou, Matthijs Douze, Teddy Furon.
   * https://arxiv.org/abs/2303.15435
+
 * **Watermarking Images in Self-Supervised Latent Spaces.** ICASSP 2022.
   * Pierre Fernandez, Alexandre Sablayrolles, Teddy Furon, Hervé Jégou, Matthijs Douze.
   * https://arxiv.org/abs/2112.09581
-    
 
 # Contributing to this paper list
 
